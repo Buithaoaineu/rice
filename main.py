@@ -13,5 +13,3 @@ elif choice == 2 :
 elif choice == 3 :
     print ("You're viewing a book :D")
 
-if choice < 0 and choice > 3 :
-    print ("Error")
