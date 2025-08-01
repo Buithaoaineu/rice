@@ -1,0 +1,23 @@
+.body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.section {
+    color:rgb(133, 117, 225)
+}
+.school_name,
+.company_name {
+    color: cornflowerblue;
+}
+
+#social {
+    display:flex
+}
+
+.social_icon{
+    width:50px;
+    margin:0px 10px;
+}
+
+#avatar{
+    height:200px
+}
